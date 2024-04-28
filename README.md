@@ -7,20 +7,24 @@ A SaaS website designed specifically for digital marketing agencies. Although th
 
 ## Image Gallery
 
-![Hero Section](/positivus/public/positivus/1.png)
-![Service Section](/positivus/public/positivus/2.png)
-![Faq Section](/positivus/public/positivus/3.png)
-![Testimonial Section](/positivus/public/positivus/4.png)
-![Teams Section](/positivus/public/positivus/5.png)
-![Footer Section](/positivus/public/positivus/6.png)
+![Hero Section](https://www.carlosmpolanco.com/positivus/1.png)
+![Service Section](https://www.carlosmpolanco.com/positivus/2.png)
+![Faq Section](https://www.carlosmpolanco.com/positivus/3.png)
+![Testimonial Section](https://www.carlosmpolanco.com/positivus/4.png)
+![Teams Section](https://www.carlosmpolanco.com/positivus/5.png)
+![Footer Section](https://www.carlosmpolanco.com/positivus/6.png)
 
 
 ## Technologies Used
 
 -React - I use React for its ability to create fast and interactive web pages. It enables the use of reusable components that enhance performance and simplify updates. React is known for quick loading times and a smooth user experience, making it a dependable choice for our website.
+
 -TypeScript - I chose TypeScript to develop this website for its ability to keep code clean, reduce errors, and enhance quality. This results in a smoother, more reliable website with fewer issues for users.
--TailwindCss - It allows for rapid, efficient styling with utility-first classes that speed up the design process. This CSS framework ensures that our site is visually coherent and easy to maintain, making it responsive and appealing on any device
--Vercel -  Vercel enables to deliver the latest updates quickly and without any downtime. No matter when you visit, Vercel ensures that our website loads swiftly and consistently,.
+
+-TailwindCss - It allows for rapid, efficient styling with utility-first classes that speed up the design process. This CSS framework ensures that our site is visually coherent and easy to maintain, making it responsive and appealing on any device.
+
+-Vercel -  Vercel enables to deliver the latest updates quickly and without any downtime. No matter when you visit, Vercel ensures that our website loads swiftly and consistently
+
 -AI - I use AI to enhance various aspects of our website development, from writing code to creating content, and from testing to quality assurance.
 
 
