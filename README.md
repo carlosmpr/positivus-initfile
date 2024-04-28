@@ -3,7 +3,7 @@
 
 A SaaS website designed specifically for digital marketing agencies. Although the original design was not mine, I have successfully recreated it using my SaaS Template Components. This ready-to-use template boasts an attractive layout that allows for quick personalization.
 
-![Cover Image](/positivus/public/positivus/cover.png)
+![Cover Image](https://www.carlosmpolanco.com/positivus/cover.png)
 
 ## Image Gallery
 
